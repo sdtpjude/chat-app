@@ -1,4 +1,4 @@
-# chat-app
+# chat-app is in the master branch
 
 # Getting Started with Create React App
 
@@ -16,6 +16,10 @@ npm install socket.io-client
 # before running the project you need to install the npm libraries both server and client directory
 
 npm install
+
+### when installing if there is warning about vulnerabilities you just need to run the command
+
+npm audit fix --force
 
 ## Available Scripts
 

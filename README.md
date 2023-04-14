@@ -4,7 +4,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# commands to install libraries
+#  installed libraries for this project
 
 ## server
 npm i express nodemon socket.io cors 
